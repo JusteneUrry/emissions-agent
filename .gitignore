@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest cache
+.pytest_cache/
+
+# Hypothesis test cache
+.hypothesis/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+
+# Secrets
+.env
+.env.*
